@@ -1,0 +1,20 @@
+body {
+    padding: 25px;
+    background-color: #1a1a1a;
+    color: #e4e4e4;
+    font-size: 25px;
+}
+
+.light-mode {
+    background-color: #e4e4e4;
+    color: #1a1a1a;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
